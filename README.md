@@ -6,7 +6,7 @@
 - 👨‍💻 Check out my projects: [My Portfolio](https://portfolio-rouge-six-33.vercel.app/)
 - 💬 Ask me about **React.js, Node.js, and DSA**
 - 📫 Reach me at **utkarshg9981@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Kr-f6_tyRSbSxQY6nK12FrvP2FUbIxIU/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1yeG0UkWHK-D508AjrFMjNy2lvZEjuQ8Q/view?usp=sharing)
 - ⚡ Fun fact: **I’m a Poet of Hindi Verses ✍️**
 
 <h3 align="left">🌐 Connect with me:</h3>
