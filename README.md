@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
-<h3 align="center">MERN Stack Developer | Problem Solver | Community Builder | Co-Founder @GrowthSquare ↗</h3>
+<h1 align="center">Hi, I'm Utkarsh Gupta</h1>
+<h3 align="center">MERN Stack Developer | Co-Founder @GrowthSquare ↗ | Community Builder </h3>
 
-- 🔭 I’m currently working on **Learnify**
-- 🌱 Exploring **Blockchain & System Design**
-- 👨‍💻 Check out my projects: [My Portfolio](https://portfolio-rouge-six-33.vercel.app/)
-- 💬 Ask me about **React.js, Node.js, and DSA**
-- 📫 Reach me at **utkarshg9981@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1yeG0UkWHK-D508AjrFMjNy2lvZEjuQ8Q/view?usp=sharing)
-- ⚡ Fun fact: **I’m a Poet of Hindi Verses ✍️**
+-  I’m currently working on **Vidyavardani**
+-  Exploring **System Design**
+-  Check out my projects: [My Portfolio](https://portfolio-rouge-six-33.vercel.app/)
+-  Ask me about **React.js, Node.js, and DSA**
+-  Reach me at **utkarshg9981@gmail.com**
+-  Know about my experiences: [My Resume](https://drive.google.com/file/d/1yeG0UkWHK-D508AjrFMjNy2lvZEjuQ8Q/view?usp=sharing)
+-  Fun fact: **I’m a Poet of Hindi Verses **
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="[Twitter](https://x.com/yours__utkarsh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urs_utkarsh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yours-utkarsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urs-utkarsh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yours_utkarsh_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urs_utkarsh__" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">⚒️ Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
